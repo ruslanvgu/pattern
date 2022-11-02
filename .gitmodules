@@ -1,0 +1,3 @@
+[submodule "math/testrepo"]
+	path = math/testrepo
+	url = https://github.com/ruslanvgu/testrepo.git
